@@ -5,4 +5,6 @@ Matlab codes for the PhD Seminar on the Optimization of Energy Systems
 
 “MILP_example.m” requires “Optimisation toolbox” and “CHP_linearisation.mat”
 
+"LinProg_visualisation.m" is used to visualize the toy example of linear vs. non-linear optimization
+
 ![OptimalSchedulingSeminar_list_of_assumptions](https://github.com/guidoffrate/Matlab_optimisation_seminar/assets/44529891/500ab485-6eb3-472b-907b-c1aa7e290188)
